@@ -1,5 +1,12 @@
 # furnitureDisplay
 
+##### disclaimer
+    
+> this is not fully responsive yet I just done the mobile part and still working on pc part 
+    <br>
+    <br>
+   
+
 
 <p align="center">
   <img src="screenshot/ss1.png" alt="screenshot" width="700">
