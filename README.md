@@ -1,5 +1,7 @@
 # furnitureDisplay
 
+
+with pure HTML && CSS 
 ##### disclaimer
     
 > this is not fully responsive yet I just done the mobile part and still working on pc part 
